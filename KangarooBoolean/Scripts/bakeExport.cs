@@ -49,6 +49,7 @@ public partial class MyExternalScriptBAKE : GH_ScriptInstance
     public GH_Document GrasshopperDocument;
     public IGH_Component Component;
     public int Iteration;
+
     #endregion
 
 
